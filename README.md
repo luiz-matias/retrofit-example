@@ -1,0 +1,1 @@
+Projeto utilizado para aprendizado sobre a lib de requisições Retrofit, da Square Up
